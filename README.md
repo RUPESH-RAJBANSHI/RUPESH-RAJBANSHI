@@ -1,81 +1,76 @@
-# 👋 Hi, I'm Rupesh Rajbanshi
+<h1 align="center">Hi there, I'm <a href="https://github.com/RUPESH-RAJBANSHI" target="_blank">Rupesh Rajbanshi</a> 👋</h1>
 
-### 💻 Full-Stack Developer | MERN Stack Developer | Software & Web Application Developer
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Full-Stack+Software+Developer;MERN+Stack+%26+Next.js+Architect;Architecting+Sleek+%26+Scalable+Web+Systems" alt="Typing SVG" />
+</p>
 
-I'm a passionate **Full-Stack Developer** focused on building modern, scalable, and user-friendly web applications. I enjoy transforming ideas into real-world software solutions using modern technologies.
+<p align="center">
+  <em>"Crafting clean, resilient, and high-performance digital experiences from concept to production."</em>
+</p>
 
-Currently, I'm working on **DotNode Point**, where I'm developing software products and web-based solutions while strengthening my skills in full-stack development.
+---
 
-## 🚀 About Me
+### 💻 About Me
 
-- 💻 Full-Stack / MERN Stack Developer
-- 🌱 Continuously learning modern web technologies
-- 🏢 Building **DotNode Point**
-- 🛠️ Interested in Software Development, SaaS & Web Applications
-- 🎯 Focused on creating practical technology solutions
-- 🤝 Open to collaboration on interesting software projects
+* 🔭 Building modern web applications with the *MERN Stack* and *Next.js*.
+* ⚡ Focused on clean architectural design, responsive interfaces, and optimized server-side logic.
+* 🌱 Continually refining backend performance, database design, and modern web developer workflows.
 
-## 🛠️ Tech Stack
+---
 
-### Frontend
-- HTML5
-- CSS3
-- JavaScript
-- TypeScript
-- React.js
-- Next.js
-- Tailwind CSS
+### 🛠️ Tech Stack & Tools
 
-### Backend
-- Node.js
-- Express.js
-- Next.js API Routes
-- REST APIs
+<div align="center">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  
+  <br/>
 
-### Database
-- MongoDB
-- MongoDB Atlas
-- Mongoose
+  <!-- Backend & Database -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 
-### Tools & Technologies
-- Git
-- GitHub
-- VS Code
-- Postman
-- Vercel
+  <br/>
 
-## 🔥 What I'm Currently Working On
+  <!-- Tools & Infrastructure -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</div>
 
-### DotNode Point
+---
 
-Building a modern technology platform focused on:
+### 📊 GitHub Stats
 
-- 💻 Software Products
-- 🌐 Website Development
-- 📱 Web & Application Solutions
-- 🎨 UI/UX Solutions
-- 🤝 Business Collaboration
-- 🚀 Technology Solutions for Businesses
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RUPESH-RAJBANSHI&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="RUPESH-RAJBANSHI's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUPESH-RAJBANSHI&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
-## 📚 Currently Improving
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RUPESH-RAJBANSHI&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+</p>
 
-- Advanced Next.js
-- TypeScript
-- Backend Architecture
-- API Development
-- Authentication & Authorization
-- Database Design
-- Deployment & DevOps
-- Scalable Full-Stack Applications
+---
 
-## 💡 Development Philosophy
+### 🌐 Connect With Me
 
-> Build. Learn. Improve. Repeat.
-
-I believe the best way to become a better developer is by continuously building real-world projects, solving problems, and learning new technologies.
-
-## 🤝 Let's Connect
-
-I'm always interested in connecting with developers, collaborating on projects, and exploring new opportunities in technology.
-
-⭐ Feel free to explore my repositories and follow my development journey.
+<p align="center">
+  <a href="https://github.com/RUPESH-RAJBANSHI" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin-id" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
