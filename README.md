@@ -73,4 +73,7 @@
   <a href="mailto:rajbanshi.rupesh.555@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+    <a href="https://www.facebook.com/rupesh.razbnc.7">
+    <img src="https://img.shields.io/badge/Facebook-D14836?style=for-the-badge&logo=Facebook&logoColor=white" />
+  </a>
 </p>
